@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS `areas`;
+DROP TABLE IF EXISTS `beans`;
+DROP TABLE IF EXISTS `coffees`;
+
